@@ -153,3 +153,4 @@ cython_debug/
 
 #Personal Data
 config.py
+lotto_result.xlsx
